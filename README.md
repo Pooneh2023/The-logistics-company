@@ -28,9 +28,7 @@ Simulate real delivery process and identify bottlenecks.
 ## 🔄 Delivery Process Flowchart
 
 ![Delivery Flowchart](assets/flowchart.png)
-## 🔄 Delivery Process Flowchart
 
-![Delivery Flowchart](assets/flowchart.png)
 
 ### 📌 Logic Overview
 The delivery process follows a rule-based system:
